@@ -2,8 +2,7 @@
     "functions": {
         "api/index.php": {
             "runtime": "now-php",
-            "memory": 3008,
-            "maxDuration": 60
+            "memory": 3008
         }
     },
     "name": "now-examples"
